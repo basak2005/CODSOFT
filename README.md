@@ -1,4 +1,4 @@
-# readme file upload
+# CODSOFT PYTHON INTERNSHIP TASKS
 <ol>
 <li>TASK 1 - TO-DO LIST</li>
 <li>TASK 2 -CALCULATOR</li>
